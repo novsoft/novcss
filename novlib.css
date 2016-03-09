@@ -1,0 +1,308 @@
+/*
+
+--    novsoft.com.cn CSS  Library  2.2.3
+--    By jszhou
+--    2016-03-06
+
+*/
+
+.w  {width:100%}
+.w1 {width:1%}
+.w2 {width:2%}
+.w3 {width:3%}
+.w4 {width:4%}
+.w5 {width:5%}
+.w6 {width:6%}
+.w7 {width:7%}
+.w8 {width:8%}
+.w9 {width:9%}
+.w10{width:10%}
+.w11{width:11%}
+.w12{width:12%}
+.w13{width:13%}
+.w14{width:14%}
+.w15{width:15%}
+.w16{width:16%}
+.w17{width:17%} 
+.w18{width:18%}
+.w19{width:19%}
+.w20{width:20%}
+.w21{width:21%}
+.w22{width:22%}
+.w23{width:23%}
+.w24{width:24%}
+.w25{width:25%}
+.w26{width:26%}
+.w27{width:27%} 
+.w28{width:28%}
+.w29{width:29%}
+.w30{width:30%}
+.w31{width:31%}
+.w32{width:32%} 
+.w33{width:33%} 
+.w34{width:34%} 
+.w35{width:35%} 
+.w36{width:36%} 
+.w37{width:37%}  
+.w38{width:38%}
+.w39{width:39%} 
+.w40{width:40%}
+.w41{width:41%}
+.w42{width:42%}
+.w43{width:43%}
+.w44{width:44%}
+.w45{width:45%}
+.w46{width:46%}
+.w47{width:47%}
+.w48{width:48%}
+.w49{width:49%}
+.w50{width:50%}
+.w51{width:51%}
+.w52{width:52%}
+.w53{width:53%}
+.w54{width:54%}
+.w55{width:55%}
+.w56{width:56%}
+.w57{width:57%}
+.w58{width:58%}
+.w59{width:59%}
+.w60{width:60%}
+.w61{width:61%} 
+.w62{width:62%} 
+.w63{width:63%} 
+.w64{width:64%} 
+.w65{width:65%} 
+.w66{width:66%} 
+.w67{width:67%} 
+.w68{width:68%}
+.w69{width:69%} 
+.w70{width:70%}
+.w71{width:71%} 
+.w72{width:72%} 
+.w73{width:73%} 
+.w74{width:74%} 
+.w75{width:75%}
+.w76{width:76%} 
+.w77{width:77%} 
+.w78{width:78%} 
+.w79{width:79%} 
+.w80{width:80%}
+.w81{width:81%}
+.w82{width:82%}
+.w83{width:83%}
+.w84{width:84%}
+.w85{width:85%}
+.w86{width:86%}
+.w87{width:87%}
+.w88{width:88%}
+.w89{width:89%}
+.w90{width:90%}
+.w91{width:91%}
+.w92{width:92%}
+.w93{width:93%}
+.w94{width:94%}
+.w95{width:95%}
+.w96{width:96%}
+.w97{width:97%}
+.w98{width:98%}
+.w99{width:99%}
+.w1000{width:1000%}
+.h  {height:100%}
+
+/*    safe color    */
+
+.red    {color:#CC3333}
+.green  {color:#009966}
+.grey   {color:#666666}
+.lightgrey{color:#D2D2D2}
+.black  {color:#373737}
+.blue   {color:#006699}
+.lightblue{color:#00CCFF}
+.pink   {color:#FF6666}
+.orange {color:#FF6633}
+.white  {color:#FFFFFF}
+
+.bRed       {background-color:#CC3333}
+.bGreen     {background-color:#44B549}
+.bGrey      {background-color:#F8F8F8}
+.bDarkGrey  {background-color:#D2D2D2}
+.bBlack     {background-color:#000000}
+.bBlue      {background-color:#4D8FCC}
+.bPink      {background-color:#FF6666}
+.bOrange    {background-color:#FF6633}
+.bWhite     {background-color:#FFFFFF} 
+
+.pD1    {padding:1%}
+.pD2    {padding:2%}
+.pD3    {padding:3%}
+.pD4    {padding:4%}
+.pD5    {padding:5%}
+.pD6    {padding:6%}
+.pD7    {padding:7%}
+.pD8    {padding:8%}
+.pD9    {padding:9%}
+.pD10   {padding:10%}
+
+.mG1    {margin:1%}
+.mG2    {margin:2%}
+.mG3    {margin:3%}
+.mG4    {margin:4%}
+.mG5    {margin:5%}
+.mG6    {margin:6%}
+.mG7    {margin:7%}
+.mG8    {margin:8%}
+.mG9    {margin:9%}
+.mG10   {margin:10%}
+
+.pT1    {padding-top:1%}
+.pT2    {padding-top:2%}
+.pT3    {padding-top:3%}
+.pT4    {padding-top:4%}
+.pT5    {padding-top:5%}
+.pT6    {padding-top:6%}
+.pT7    {padding-top:7%}
+.pT8    {padding-top:8%}
+.pT9    {padding-top:9%}
+.pT10   {padding-top:10%}
+
+.pB1    {padding-bottom:1%}
+.pB2    {padding-bottom:2%}
+.pB3    {padding-bottom:3%}
+.pB4    {padding-bottom:4%}
+.pB5    {padding-bottom:5%}
+.pB6    {padding-bottom:6%}
+.pB7    {padding-bottom:7%}
+.pB8    {padding-bottom:8%}
+.pB9    {padding-bottom:9%}
+.pB10   {padding-bottom:10%}
+
+.pL1    {padding-left:1%}
+.pL2    {padding-left:2%}
+.pL5    {padding-left:5%} 
+
+.pR5    {padding-right:5%} 
+
+.mT1    {margin-top:1%}
+.mT2    {margin-top:2%}
+.mT3    {margin-top:3%}
+.mT4    {margin-top:4%}
+.mT5    {margin-top:5%}
+.mT6    {margin-top:6%}
+.mT7    {margin-top:7%}
+.mT8    {margin-top:8%}
+.mT9    {margin-top:9%}
+.mT10   {margin-top:10%}
+.mT20   {margin-top:20%}
+.mT30   {margin-top:30%}
+
+.mL1    {margin-left:1%}
+.mL2    {margin-left:2%}
+
+.mR1    {margin-right:1%}
+.mR2    {margin-right:2%}
+.mR3    {margin-right:3%}
+.mR4    {margin-right:4%}
+.mR5    {margin-right:5%}
+.mR6    {margin-right:6%}
+.mR7    {margin-right:7%}
+.mR8    {margin-right:8%}
+.mR9    {margin-right:9%}
+.mR10   {margin-right:10%}
+
+.mB1    {margin-bottom:1%}
+.mB2    {margin-bottom:2%}
+.mB3    {margin-bottom:3%}
+.mB4    {margin-bottom:4%}
+.mB5    {margin-bottom:5%}
+.mB6    {margin-bottom:6%}
+.mB7    {margin-bottom:7%}
+.mB8    {margin-bottom:8%}
+.mB9    {margin-bottom:9%}
+.mB10    {margin-bottom:10%}
+
+.cP     {cursor:pointer}
+.oH     {overflow:hidden}
+.mA     {margin:0px auto}
+
+.fL        {float:left}
+.fR        {float:right}
+
+.tC        {text-align:center}
+.tR        {text-align:right}
+
+.size80 {font-size:80%}
+.size120{font-size:120%}
+.size150{font-size:150%}
+.size200{font-size:200%}
+
+.size12 {font-size:12px}
+.size14 {font-size:14px}
+.size16 {font-size:16px}
+.size18 {font-size:18px}
+.size21 {font-size:21px}
+.size30 {font-size:30px}
+.size35 {font-size:35px}
+
+.b      {font-weight:bold}
+
+.r      {-moz-border-radius: 5px;-webkit-border-radius: 5px;border-radius:5px}
+.r5     {-moz-border-radius: 5px;-webkit-border-radius: 5px;border-radius:5px}
+.r10    {-moz-border-radius: 10px;-webkit-border-radius: 10px;border-radius:10px}
+.r100   {-moz-border-radius: 100%;-webkit-border-radius: 100%;border-radius:100%}
+
+.alpha    {-moz-opacity: 0.85;opacity:.85;filter: alpha(opacity=85)}
+.alpha30{-moz-opacity: 0.30;opacity:.30;filter: alpha(opacity=30)}
+.alpha100{-moz-opacity: 1;opacity:.100;filter: alpha(opacity=100)}
+
+.uL        {border-bottom:1px solid #D2D2D2}
+.uLd       {border-bottom:1px dotted #D2D2D2}
+.tL        {border-top:1px solid #D2D2D2} 
+.tLd       {border-top:1px dotted #D2D2D2}
+
+.pA        {position:absolute}
+.pR        {position:relative}
+.pF        {position:fixed}
+
+.dN        {display:none}
+
+.top0   {top:0%}
+.top10  {top:10%} 
+.top20  {top:20%}
+.top30  {top:30%} 
+.top40  {top:40%} 
+.top50  {top:50%}  
+.left0  {left:0%} 
+.bot0   {bottom:0%}
+.right0 {right:0%}
+.right10{right:10%}
+.left10 {left:10%}
+.left20 {left:20%}
+.left30 {left:30%}
+.left35 {left:35%}
+.left40 {left:40%} 
+
+.z-1   {z-index:-1}
+.z500   {z-index:500}
+.z1000  {z-index:1000}
+.z2000  {z-index:2000}
+
+.bDGreen    {border:1px solid #009966}
+.bDRed        {border:1px solid #CC3333}
+.bDGrey        {border:1px solid #666666}
+.bDBlack    {border:1px solid #373737}
+.bDPink        {border:1px solid #FF6666}
+.bDBlue        {border:1px solid #006699}
+.bDOrange    {border:1px solid #FF6633}
+.bD0       {border:none}
+
+.layer {width:100%;height:100%;background-color:black;position:fixed;top:0%;left:0%;z-index:500}
+
+body{margin:0%;padding:0%;overflow:scroll;overflow-x:hidden}
+img{max-width:100%;border:none}
+ul,li{margin:0px;padding:0px;text-decoration:none}
+body, input, textarea, select {
+    font-family: "Microsoft Yahei",Helvetica,Arial,Verdana,sans-serif;    
+    margin:0px;
+    padding:0px;
+}
+html,body{height:100%}
